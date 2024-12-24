@@ -1,3 +1,3 @@
 # My-Project
-My First Project in github.
-<h6>Author : Hridoy Hossen</h6>
+My First Project in github. <br>
+Author : Hridoy Hossen
